@@ -1,0 +1,14 @@
+/home/luizricardo41/Documentos/Rocketseat/Formacao-C#/desafio_pratico/bin/Debug/net8.0/desafio_pratico
+/home/luizricardo41/Documentos/Rocketseat/Formacao-C#/desafio_pratico/bin/Debug/net8.0/desafio_pratico.deps.json
+/home/luizricardo41/Documentos/Rocketseat/Formacao-C#/desafio_pratico/bin/Debug/net8.0/desafio_pratico.runtimeconfig.json
+/home/luizricardo41/Documentos/Rocketseat/Formacao-C#/desafio_pratico/bin/Debug/net8.0/desafio_pratico.dll
+/home/luizricardo41/Documentos/Rocketseat/Formacao-C#/desafio_pratico/bin/Debug/net8.0/desafio_pratico.pdb
+/home/luizricardo41/Documentos/Rocketseat/Formacao-C#/desafio_pratico/obj/Debug/net8.0/desafio_pratico.GeneratedMSBuildEditorConfig.editorconfig
+/home/luizricardo41/Documentos/Rocketseat/Formacao-C#/desafio_pratico/obj/Debug/net8.0/desafio_pratico.AssemblyInfoInputs.cache
+/home/luizricardo41/Documentos/Rocketseat/Formacao-C#/desafio_pratico/obj/Debug/net8.0/desafio_pratico.AssemblyInfo.cs
+/home/luizricardo41/Documentos/Rocketseat/Formacao-C#/desafio_pratico/obj/Debug/net8.0/desafio_pratico.csproj.CoreCompileInputs.cache
+/home/luizricardo41/Documentos/Rocketseat/Formacao-C#/desafio_pratico/obj/Debug/net8.0/desafio_pratico.dll
+/home/luizricardo41/Documentos/Rocketseat/Formacao-C#/desafio_pratico/obj/Debug/net8.0/refint/desafio_pratico.dll
+/home/luizricardo41/Documentos/Rocketseat/Formacao-C#/desafio_pratico/obj/Debug/net8.0/desafio_pratico.pdb
+/home/luizricardo41/Documentos/Rocketseat/Formacao-C#/desafio_pratico/obj/Debug/net8.0/desafio_pratico.genruntimeconfig.cache
+/home/luizricardo41/Documentos/Rocketseat/Formacao-C#/desafio_pratico/obj/Debug/net8.0/ref/desafio_pratico.dll
